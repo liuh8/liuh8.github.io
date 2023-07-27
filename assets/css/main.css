@@ -2101,6 +2101,13 @@ input, select, textarea {
 						margin: 0.25em 0 0 0;
 					}
 
+					#main > .panel.intro header #education{
+						font-size: 0.9em;
+						font-weight: bold;
+						margin: 0;
+
+					}
+
 				@media screen and (max-width: 980px) {
 
 					#main > .panel.intro {
@@ -2165,7 +2172,7 @@ input, select, textarea {
 		#footer .copyright {
 			list-style: none;
 			padding-left: 0;
-			margin-bottom: 0;
+			margin-bottom: 0em;
 		}
 
 			#footer .copyright li {
